@@ -1,6 +1,6 @@
 import requests
-apiGatewayUrl = "APIGATEWAYURL"
-s3BucketName = 'montycloudcoding/'
+apiGatewayUrl = "<API GATEWAY URL>"
+s3BucketName = "<Name of S3 Bucket>"
 
 
 def uploadImageToS3(image):
