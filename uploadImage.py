@@ -1,5 +1,5 @@
 import requests
-apiGatewayUrl = "<URL OF API GATEWAY>"
+apiGatewayUrl = "<URL OF API>"
 s3BucketName = '<Name of the S3 bucket to store original images>'
 
 # This function will invoke the REST API Hosted on API Gateway
