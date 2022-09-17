@@ -1,5 +1,5 @@
 import requests
-apiGatewayUrl = "https://g3ycrq1bqh.execute-api.ap-south-1.amazonaws.com/dev/"
+apiGatewayUrl = "APIGATEWAYURL"
 s3BucketName = 'montycloudcoding/'
 
 
