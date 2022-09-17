@@ -1,6 +1,6 @@
 import requests
 import shutil
-apiGatewayUrl = "<URL OF API GATEWAY>"
+apiGatewayUrl = "<URL OF API>"
 s3BucketName = '<Name of the S3 bucket containing thumbnails of images>'
 
 # This scripts fetches the thumbnail of the image
